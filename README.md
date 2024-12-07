@@ -24,3 +24,10 @@ Here are the contents of this submission:
  - Necessary mod files (needed to run practical course in BeamNG) are located in `racing_course_practical/mods`
  - Instructions on how to import and run the racing course practical section in `Website_Github/practical.html
  - All course practical content (including necessary mods) is available at URL https://drive.google.com/file/d/1gOTbXjrL54vQ518iNWNcGIciOsIXOYad/view?usp=sharing (297MB .zip file) 
+4. 11/30 Ridesmart COTA Trackday Survey
+ - Survey Link: https://docs.google.com/forms/d/e/1FAIpQLSeiwboYzGFCGgtl_eMDfvcbjwwU21adlMZKq6mJoRm4hZycpQ/viewform
+ - Survey Responses: Under folder `11_30_COTA_Trackday_Survey/`
+5. Presentation Video
+ - Presentation Video is uploaded to YouTube: https://www.youtube.com/watch?v=N1WtLyP2Y-g 
+6. Final Paper
+ - Final Paper is file `JasonJohn_RacingCourse_Final.pdf`
